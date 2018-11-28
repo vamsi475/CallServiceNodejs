@@ -1,0 +1,55 @@
+{
+  "employment_type": "CONTRACTOR",
+  "metadata": {
+    "X-Parsed-By": "org.apache.tika.parser.DefaultParser",
+    "Content-Encoding": "UTF-8",
+    "content": "subject:Looking for TeraData Developer in Hillsboro, OR date:Mon, 12 Nov 2018 10:41:39 -0500 from:\"Srinivas T \\(Systel Computers\\)\" <srinivast@systelcomputers.com> uid:570428 flag:email body:Hi, This is an immediate need with our client. Please go through the below requirement, if you’re comfortable please send me your updated resume along with your contact details ASAP. Need i-94 or passport number for OPT EAD, H1B, GC EAD and H4 EAD along with the VISA documents Interviews are actively happening Role : TeraData Developer Location: Hillsboro, OR Contract: Long Term Job Description: a.. Tera Data b.. AWS or any cloud skills Regards, Srinivas T 678-250-9870 srinivast@systelcomputers.com",
+    "Content-Type": "text/plain; charset=UTF-8"
+  },
+  "valid_through": "2018-12-13T20:06:58",
+  "work_authorizations": [
+    "GC EAD",
+    "OPT EAD",
+    "H1B",
+    "H4 EAD",
+    "I-94"
+  ],
+  "description": " Hi This is an immediate need with our client Please go through the below requirement if you re comfortable please send me your updated resume along with your contact details ASAP Need i 94 or passport number for OPT EAD H1B GC EAD and H4 EAD along with the VISA documents Interviews are actively happening Role TeraData Developer Location Hillsboro OR Contract Long Term Job Description a Tera Data b AWS or any cloud skills Regards Srinivas T 678 250 9870 srinivast systelcomputers com",
+  "source": "EMAIL_CRAWLER",
+  "title": "TeraData Developer",
+  "phoneNumbers": [
+    "678-250-9870"
+  ],
+  "emails": [
+    "srinivast@systelcomputers.com"
+  ],
+  "uid": "570428",
+  "organization": {
+    "name": "systelcomputers"
+  },
+  "employer": {
+    "name": "Srinivas T \\Systel Computers\\",
+    "email": "srinivast@systelcomputers.com"
+  },
+  "location": {
+    "country": "United States",
+    "pin": {
+      "lon": -122.9365835,
+      "lat": 45.5200114
+    },
+    "city": "Washington County",
+    "postalCode": "97124",
+    "name": "Hillsboro OR",
+    "state": "Oregon"
+  },
+  "posted_date": "2018-11-13T20:06:58",
+  "positionStatus": "open",
+  "categories": [
+    {
+      "category": "cloud computing",
+      "skills": [
+        "aws"
+      ]
+    }
+  ]
+}
